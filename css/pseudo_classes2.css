@@ -1,0 +1,10 @@
+/* Todos menos first-child e last-child */
+
+ol li:not(:first-child):not(:last-child) {
+    background: #adf;
+}
+
+/* Todos h2's dentro de section, menos o que tiver a classe .contato */
+section h2:not(.contato) {
+    text-decoration: underline;
+}
