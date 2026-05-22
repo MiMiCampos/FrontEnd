@@ -1,0 +1,15 @@
+a {
+    display: inline-block;
+    padding: 0.8rem 0.8rem;
+    font-size: 1rem;
+    font-family: Arial;
+    text-decoration: none;
+    background: #febe01;
+    color: #332200;
+    border-radius: 4px;
+}
+
+.amarelo {
+    display: inline-block;
+    color: #febe01;
+}
